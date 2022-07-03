@@ -1,4 +1,4 @@
-# Stats@Berkeley
+# Stat@Berkeley
 
 ### Fall 2022 🍂
 - 150: Stochastic Processes
