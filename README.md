@@ -13,4 +13,8 @@
 - 215B: Statistical Models: Theory and Application
 - 230A: Linear Models
 
+### Fall 2024 🍂
+- 221: Introduction to Financial Engineering 
+
+
 
